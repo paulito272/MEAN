@@ -3,7 +3,7 @@
 A calculator application developed using open source technologies.
 
 ### Version
-1.0.0
+1.0.1
 
 ### Tech
 
